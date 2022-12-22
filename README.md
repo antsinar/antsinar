@@ -23,9 +23,9 @@ Open Source εφαρμογή για διαχείριση αποθέματος β
 | :---: | :---: |
 |***Operating Systems***||
 | Windows Usage | 8 |
-| Windows Scripting | 5 |
 | Linux (Ubuntu based) Usage | 7 |
-| Linux (Ubuntu based) Scripting | 4 |
+| Python OS Scripting | 5 |
+| Bash Scripting | 4 |
 | ***Version Control*** ||
 | Git | 7 |
 | ***Backend Web Development*** ||
