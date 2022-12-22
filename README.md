@@ -26,6 +26,8 @@ Open Source εφαρμογή για διαχείριση αποθέματος β
 | Windows Scripting | 5 |
 | Linux (Ubuntu based) Usage | 7 |
 | Linux (Ubuntu based) Scripting | 4 |
+| ***Version Control*** ||
+| Git | 7 |
 | ***Backend Web Development*** ||
 | Python | 7 |
 | Django Framework | 7 |
