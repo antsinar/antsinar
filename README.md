@@ -1,4 +1,4 @@
-<h1 style="display:flex; justify-content: center">Hello 👋</h1>
+# Hello 👋
 
 ***Ονομάζομαι Τάσος και αυτό είναι το github profile μου.***    
 (**Current state**) Ασχολούμαι ενεργά με το web development και ψάχνω διαρκώς τρόπους να εξελίξω την "τέχνη" μου.  
@@ -7,21 +7,21 @@
 
 Περίφανος Junior 💪.
 
-<h1 style="display:flex; justify-content: center">Projects που αναμειγνύομαι ενεργά</h1>
+## Projects που αναμειγνύομαι ενεργά
 ➡️ [Smartbell.gr]()  
-![Smartbell Logo](smartbell.png)  
+![Smartbell Logo](smartbell.png)
 Εφαρμογή για πλήρη διαχείριση καταστημάτων εστίασης.  
 (περισσότερες πληροφορίες σύντομα)  
 
 ➡️ [Bookville.gr]()  
-![Bookville Logo](bookville.png)  
+![Bookville Logo](bookville.png)
 Open Source εφαρμογή για διαχείριση αποθέματος βιβλιοπωλείων, αλλά και για διευκόλυνση του καταναλωτή.  
 Στη διαδικασία του reboot, βρείτε την προηγούμενη απόπειρα [εδώ](https://bookville.gr).  
 
-<h1 style="display: flex; justify-content: center">TL;DR</h1>
+## TL;DR
 > Μου αρέσει να μαθαίνω πράγματα, εθίζομαι εύκολα σε τεχνολογίες και φτιάχνω καλό καφέ.
 
-<h1 style="display:flex; justify-content: center">Τεχνολογίες που "ξέρω" να χρησιμοποιώ 🔓</h1>
+## Τεχνολογίες που "ξέρω" να χρησιμοποιώ 🔓
 
 | Τεχνολογία | Γνώση/10 |
 | :---: | :---: |
@@ -66,7 +66,7 @@ Open Source εφαρμογή για διαχείριση αποθέματος β
 | General Purpose Writing | 6 |
 
 
-<h1 style="display: flex;justify-content: center;">SE Bucket List</h1>
+## SE Bucket List
 | Τεχνολογία | Desire/10 |
 | :---: | :---: |
 | Security | 8 |
@@ -75,16 +75,16 @@ Open Source εφαρμογή για διαχείριση αποθέματος β
 | Multithreaded Programming | 5 |
 | Blockchain (not the crypto stuff )| 4 |
 
-<h1 style="display:flex; justify-content:center;">Current Addictions</h1>
+## Current Addictions
 | Technology | Level of Addiction |
-| --- | --- |
+| :---: | :---: |
 | AstroJs | Medium |
 | Rust Backend Services | Medium |
 | FastAPI | Quite High |
 | Designing apps that will never be complete | Dangerous |
 
-<h1 style="display: flex; justify-content: center">Μέρη που γράφω για τεχνικά θέματα</h1>
+## Μέρη που γράφω για τεχνικά θέματα
 > Coming Soon
 
-<h1 style="display: flex; justify-content: center">Φτάσατε στο τέλος!</h1>
+## Φτάσατε στο τέλος!
 > Εσείς; Τα νέα σας!
