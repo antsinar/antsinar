@@ -8,15 +8,19 @@
 Περίφανος Junior 💪.
 
 ## Projects που αναμειγνύομαι ενεργά
-➡️ [Smartbell.gr]()  
-![Smartbell Logo](smartbell.png)
-Εφαρμογή για πλήρη διαχείριση καταστημάτων εστίασης.  
-(περισσότερες πληροφορίες σύντομα)  
+\-
 
+## Projects στον πάγο
 ➡️ [Bookville.gr]()  
 ![Bookville Logo](bookville.png)
 Open Source εφαρμογή για διαχείριση αποθέματος βιβλιοπωλείων, αλλά και για διευκόλυνση του καταναλωτή.  
-Στη διαδικασία του reboot, βρείτε την προηγούμενη απόπειρα [εδώ](https://bookville.gr).  
+Στη διαδικασία του reboot  
+
+## Projects που υπήρξαν
+➡️ [Smartbell.gr]()  
+![Smartbell Logo](smartbell.png)
+Εφαρμογή για πλήρη διαχείριση καταστημάτων εστίασης.  
+
 
 ## TL;DR
 > Μου αρέσει να μαθαίνω πράγματα, εθίζομαι εύκολα σε τεχνολογίες και φτιάχνω καλό καφέ.
@@ -35,52 +39,51 @@ Open Source εφαρμογή για διαχείριση αποθέματος β
 | Python | 7 |
 | Javascript | 5 |
 | Rust (quite early on) | 4 |
-| F# (quite early on) | 2 |
+| Kotlin (quite early on) | 4 |
 | ***Backend Web Development*** ||
 | Django Framework (including REST Framework)| 7 |
-| Nodejs (fastify) | 5 |
-| Axum | 3 |
-| ASP.NET Core | 2 |
+| FastAPI | 6 |
+| Ktor | 4 |
+| Nodejs (fastify) | 4 |
+| ASP.NET Core | 3 |
+| Axum | 2 |
 | ***Relational Databases*** ||
 | Relational DB Theory | 7 |
 | Different ORMs (Django ORM/ SQLAlchemy etc) | 7 |
 | SQLite | 5 |
-| PostgreSQL | 5 |
+| PostgreSQL | 4 |
+| Larger Scale DB applications | 4 |
 | ***In memory Databases***||
 | Current Understanding | 4 |
 | Redis | ? |
-| RabbitMQ | ? |
+| RabbitMQ | 5 |
 | ***Frontend Web Development*** ||
-| HTML | 7 |
+| HTML, CSS, JS | 6 |
 | Bootstrap | 6 |
-| CSS | 4 |
-| Tailwind CSS | 4 |
-| ReactJS | 3 |
+| Tailwind CSS | 6 |
+| JS Frameworks / Libraries (only tried ReactJs for a month...) | 3 |
 | ***Deployment and Infra Management*** ||
 | Linux VM | 6 |
-| Docker | 6 |
+| Docker | 5 |
 | PaaS(Heroku, CapRover) | 4 |
 | ***Other*** ||
 | Advanced Coffee Brewing ☕ | 8 |
 | Techical Writing w/ Markdown | 7 |
 | General Purpose Writing | 6 |
 
-
-## SE Bucket List
+## Current SE Bucket List
 | Τεχνολογία | Desire/10 |
 | :---: | :---: |
-| Security | 8 |
-| Async Programming | 7 |
-| Caching | 7 |
-| Multithreaded Programming | 5 |
-| Blockchain (not the crypto stuff )| 4 |
+| Security on the Web | 8 |
+| Better Understanding of Backend Concepts | 7 |
+| Expand to the Devops space | 5 |
 
 ## Current Addictions
 | Technology | Level of Addiction |
 | :---: | :---: |
 | AstroJs | Medium |
-| Rust Backend Services | Medium |
 | FastAPI | Quite High |
+| Kotlin & Ktor | Getting There |
 | Designing apps that will never be complete | Dangerous |
 
 ## Μέρη που γράφω για τεχνικά θέματα
