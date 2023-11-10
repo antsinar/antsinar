@@ -37,6 +37,7 @@
 | Python | 7 |
 | Javascript | 5 |
 | Kotlin (quite early on) | 4 |
+| C++ (through HLS designs) | 3 |
 | Rust (dropped) | 2 |
 | Go (dropped) | 2 |
 |&nbsp;||
@@ -75,20 +76,23 @@
 | Bootstrap | 5 |
 | React (dropped) | 1 |
 |&nbsp;||
-| ***Deployment and Infrastructure*** ||
+| ***Deployment and Infrastructure Understanding *** ||
 | Linux VM | 6 |
 | Docker | 5 |
 | PaaS(Heroku, CapRover) | 4 |
-| GraalVM | 2 |
+| GraalVM | 3 |
+| Dapr | 2 |
 | Function as a Service | - |
+|&nbsp;||
 | ***DevOps Monitoring and Testing*** ||
-| Jenking | 4 |
 | Sentry | 4 |
-|&nbsp||
+| Jenking | 3 |
+|&nbsp;||
 | ***Android Specific*** ||
 | Compose | 5 |
 | Android Studio | 4 |
 | Android version specifics | 2 |
+|&nbsp;||
 | ***Other*** ||
 | Advanced Coffee Brewing ☕ | 8 |
 | Techical Writing w/ Markdown | 7 |
@@ -100,6 +104,7 @@
 | Security on the Web | 8 |
 | Testing and Code Quality Concepts | 8 |
 | Better Understanding of Backend Concepts | 7 |
+| Expansion to the custom hardware programming and verification space | 3 | 
 | Expansion to the Devops space | 2 |
 
 ## Μέρη που γράφω για τεχνικά θέματα
