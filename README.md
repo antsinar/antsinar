@@ -2,8 +2,11 @@
 
 ***Ονομάζομαι Τάσος και αυτό είναι το github profile μου.***    
 (**Current state**) Ασχολούμαι ενεργά με το web development και ψάχνω διαρκώς τρόπους να εξελίξω την "τέχνη" μου.  
-Βασικός μου τομέας είναι το Backend Web Development, ενώ έχω οικειότητα και με Frontend τεχνολογίες, αλλά και βασικές γνώσεις Android.  
+Βασικός μου τομέας είναι το Backend, ενώ έχω οικειότητα και με Frontend τεχνολογίες, αλλά και βασικές γνώσεις Android & ανάπτυξης κοινόχρηστων βιβλιοθηκών Python.  
 Στόχος των εφαρμογών μου είναι να λύσουν προβλήματα του πραγματικού κόσμου, με υψηλή απόδοση και αξιοπιστία.  
+
+I am primarily a backend web developer and constantly looking for ways to evolve my skillset. Other areas that I have relatively good knowledge of are Frontend and Android technologies, as well as shared Python packages.  
+The aim of my applications is to solve real world problems reliably and efficiently.  
 
 Junior @ heart 💪.
 
@@ -93,6 +96,12 @@ Junior @ heart 💪.
 | Static Typing (MyPy) | 7 |
 | Features available in CPython 3.11+ | 6 |
 | PyTest w/ Hypothesis Testing | 5 |
+|&nbsp;||
+| ***Past Experimentation*** ||
+| Go programming language | - |
+| React & React Native | - |
+| C# on ASP.NET Core and the Unity Game Engine | - |
+| Java Backend Services running on GraalVM | - |
 |&nbsp;||
 | ***Other*** ||
 | Advanced Coffee Brewing ☕ | 8 |
