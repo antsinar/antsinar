@@ -50,7 +50,7 @@ Junior @ heart 💪.
 | Database Scaling Techniques | 3 |
 |&nbsp;||
 | ***Other Database Types*** ||
-| Graph Databases Theory and Practice | 3 |
+| Graph Databases | 3 |
 | Time Series Databases | 3 |
 |&nbsp;||
 | ***Protocols/Techniques Understanding*** ||
@@ -109,10 +109,6 @@ Junior @ heart 💪.
 
 \* *software engineering*  
 
-## Landing Page
-Σε περίπτωση που προτιμάτε κάτι πιο οπτικά ευχάριστο από ένα markdown αρχείο.  
-➡️ https://landing_ants.netlify.app
-
 ## Projects που αναμειγνύομαι ενεργά
 \-
 
@@ -123,9 +119,6 @@ Junior @ heart 💪.
 ## Projects που υπήρξαν
 ➡️ [smartbell.gr](): Εφαρμογή για πλήρη διαχείριση καταστημάτων εστίασης.  
 **Discontinued**  
-
-## Μέρη που γράφω για τεχνικά θέματα
-> Coming Soon
 
 ## Φτάσατε στο τέλος!
 > Εσείς; Τα νέα σας!
